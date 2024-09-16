@@ -1,4 +1,5 @@
-# Augest 27, 2024
+
+# August 27, 2024
 Today, I created my first GitHub account and repository. I'm excited to start using GitHub for my projects!
 # September 4, 2024 
 The three sensors that are found on the spehero bolt are compass sensor, ambient light sensor, and infrared sensor.
