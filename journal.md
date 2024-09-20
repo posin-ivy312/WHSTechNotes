@@ -8,3 +8,5 @@ The sephro bolt compass sensor while also using a magnetometer, this allows the 
 In this lesson I didn't really understand it, once I read the instructions I started to understand the lesson a bit more. A step I didn't know how to do was copy and paste the code into the "start program". My partner was also confused on what to do but I help them figure out how to copy and paste. Once we finished the Sphero Bolt.
 # September 17, 2024
 This is a free week.
+# September 20, 2024
+Today I have completed the "create a 3D T-Rex game"
