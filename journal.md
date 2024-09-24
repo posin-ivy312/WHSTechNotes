@@ -10,3 +10,5 @@ In this lesson I didn't really understand it, once I read the instructions I sta
 This is a free week.
 # September 20, 2024
 Today I have completed the "create a 3D T-Rex game"
+# September 24. 2024
+How does precision affect the outcome of the program? Precision affects the outcome of the program because if your not precisce with the codes then it will impact your final program which can lead to multiple issues. What can happen if steps or details are missed in coding? It will affect your program by not working to its full potential also it will create issues. Why is it important to develop good habits of attention to detail early in your coding journey? Its essential to develop good habits of attention to detail in my coding journeu because it will help me accomplish and complete codes more easily and less stress which reduces mistakes within my codes.
