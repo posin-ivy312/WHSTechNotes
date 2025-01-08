@@ -35,3 +35,5 @@ Recent advancements in artificial intelligence (AI) and machine learning (ML) ha
 To me, brain rot perfectly describes thtat drained, foggy feeling after spending to much time scrolling through pointless content. This year i've fekt both tghe good and the bad sides of digital media. On one hand it keeps me connected and entertained but on the other, it's easy to get stuck in a cycle of watching or reading things that feel like a waste of time.
 # December 16, 2024
 OF COURSE IM EXCITED FOR WINTERBREAK BUT NOT FOR THE TESTS
+# Janurary 8, 2025
+Looking back: I enjoyed making friends. My grade can be improved or something else but not sure. I dont have feed back about anything for the lessons.
