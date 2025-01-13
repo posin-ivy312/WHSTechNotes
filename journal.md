@@ -37,3 +37,5 @@ To me, brain rot perfectly describes thtat drained, foggy feeling after spending
 OF COURSE IM EXCITED FOR WINTERBREAK BUT NOT FOR THE TESTS
 # Janurary 8, 2025
 Looking back: I enjoyed making friends. My grade can be improved or something else but not sure. I dont have feed back about anything for the lessons.
+# Janurary 13, 2025
+The tech industry's shift toward prioritizing AI vskills over traditional roles shows how much the job market is changing.
