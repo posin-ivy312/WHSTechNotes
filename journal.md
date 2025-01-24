@@ -35,11 +35,11 @@ Recent advancements in artificial intelligence (AI) and machine learning (ML) ha
 To me, brain rot perfectly describes thtat drained, foggy feeling after spending to much time scrolling through pointless content. This year i've fekt both tghe good and the bad sides of digital media. On one hand it keeps me connected and entertained but on the other, it's easy to get stuck in a cycle of watching or reading things that feel like a waste of time.
 # December 16, 2024
 OF COURSE IM EXCITED FOR WINTERBREAK BUT NOT FOR THE TESTS
-# Janurary 8, 2025
+# January 8, 2025
 Looking back: I enjoyed making friends. My grade can be improved or something else but not sure. I dont have feed back about anything for the lessons.
-# Janurary 13, 2025
+# January 13, 2025
 The tech industry's shift toward prioritizing AI vskills over traditional roles shows how much the job market is changing.
-# Janurary 22, 2025
+# January 22, 2025
 Government intervention has a significant impact on technology companies and their users by shaiping how platforms operate and how accesible they remain. In TikTok's case, the potential ban due to nation security conerns shows how governments prioritize data privacy and nation security over free access to global platform. For users, this can mean losing access to a platform they enjoy, while for companies, it might require major changes, such as storing data locally or even restructing ownership, to meet regulatory requirements. This sityation highlights the delicate balance between innovation and complaiance with government regulations.
 
 If I were a develeoper at TikTok, I would implement a feature that provides users with complete transparency regarding how their data is stored and shared, For example, A Data Dashboard within the app could allow users to see where their data is stored, who has access to it, and the option to delete specific data points. This feature would address privacy concerns and show that TikTok is taking user data seriously. From this situation, I've learned that importance of incorporating privacy and security considerations early in app development. Applying these priciples to my projects would not align with ethical software development but would build trust with users, ensuring the longevity and reliability of the product.
