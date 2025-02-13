@@ -43,6 +43,13 @@ The tech industry's shift toward prioritizing AI vskills over traditional roles 
 Government intervention has a significant impact on technology companies and their users by shaiping how platforms operate and how accesible they remain. In TikTok's case, the potential ban due to nation security conerns shows how governments prioritize data privacy and nation security over free access to global platform. For users, this can mean losing access to a platform they enjoy, while for companies, it might require major changes, such as storing data locally or even restructing ownership, to meet regulatory requirements. This sityation highlights the delicate balance between innovation and complaiance with government regulations.
 
 If I were a develeoper at TikTok, I would implement a feature that provides users with complete transparency regarding how their data is stored and shared, For example, A Data Dashboard within the app could allow users to see where their data is stored, who has access to it, and the option to delete specific data points. This feature would address privacy concerns and show that TikTok is taking user data seriously. From this situation, I've learned that importance of incorporating privacy and security considerations early in app development. Applying these priciples to my projects would not align with ethical software development but would build trust with users, ensuring the longevity and reliability of the product.
+# January 22, 2025
+| NAme     | Car | Mistake | 
+|:---         |  :---:      |       ---: | 
+| Jimmy |  Honda civic | Drilled Hole in the gas tank  |
+| Kayla     | Sierra      | Fixed Wronged Problem |
+| Bart   | Corolla     | Left stains on the carpet    |
+| Harrison  | Fpster         | Left the oil cap off  |
 # February 3, 2025
 Air Traffic Control SystemsComputer algorithms are essential in managing airspace and preventing collisions. They process real-time data from aircraft, weather conditions, and other factors to optimize flight paths and maintain safe distances between planes. Improvements could include enhancing algorithms to better predict potential conflicts and integrating more robust communication systems for real-time updates.
 Automation & AI in AviationAutomation plays a crucial role in modern aviation through autopilot systems and AI-driven decision-making. These systems can provide real-time alerts to pilots about potential hazards. Future improvements could involve developing more advanced AI systems that can learn from previous incidents and adapt their responses accordingly to prevent similar situations.
