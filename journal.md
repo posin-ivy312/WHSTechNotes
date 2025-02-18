@@ -53,7 +53,7 @@ If I were a develeoper at TikTok, I would implement a feature that provides user
 # February 3, 2025
 Air Traffic Control SystemsComputer algorithms are essential in managing airspace and preventing collisions. They process real-time data from aircraft, weather conditions, and other factors to optimize flight paths and maintain safe distances between planes. Improvements could include enhancing algorithms to better predict potential conflicts and integrating more robust communication systems for real-time updates.
 Automation & AI in AviationAutomation plays a crucial role in modern aviation through autopilot systems and AI-driven decision-making. These systems can provide real-time alerts to pilots about potential hazards. Future improvements could involve developing more advanced AI systems that can learn from previous incidents and adapt their responses accordingly to prevent similar situations.
-# February 11 2025
+# February 11, 2025
 | Shape    | Color | Count |
 | -------- | ----- | ----- |
 | Circle   |Green  |   7   |
@@ -61,3 +61,5 @@ Automation & AI in AviationAutomation plays a crucial role in modern aviation th
 | Hexagon  |Brown  |   6   |
 | Triangle |Purple |   4   |
 | Octagon  |Red    |   3   |
+# Feburary 18, 2025 
+THe most interesting thing that I learned last week was coding.
