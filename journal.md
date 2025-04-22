@@ -69,3 +69,8 @@ Technology has the potential to significantly bridge the generational laguane ga
 I used my playstation and my phone over spring break. I used it really often and it helpyed me by letting me talk to friends and keeping me entertained over spring break. I cannot connect anything from my playstation and my phone to this class like coding and stuff.
 # March 24, 2025 
 March Madness, the annual NCAA basketball tournament, has increasingly integrated advanced technologies to enhance both gameplay and the fan experience. From the use of artificial intelligence (AI) in predicting game outcomes to the implementation of augmented reality (AR) in broadcasting, technology is reshaping how we engage with sports. Reflect on how these technological advancements have influenced your perception of the tournament. Do you believe AI-driven predictions, such as those attempting to create perfect brackets, add excitement or detract from the unpredictability that makes March Madness thrilling? Additionally, consider the role of social media platforms and streaming services in transforming fan engagement during the tournament. How do these changes impact the traditional viewing experience and your connection to the games?
+# April 22, 2025
+Dear Ms. Threat, I am writing to express my sincere appreciation with teaching me about algebra. Ypour teaching skills was incredibly helpful, and I am very grateful for your support. When I was struggling with graphing, you took thetime to help me. THis made a significant difference, and I was able to start figuring it out on my own.Than you once again for your kindness and dedication. Your efforts are greatly valud by the students at Wagner High school.
+Sincerly,
+Jazsriel
+9th Grade.
