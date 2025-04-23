@@ -74,3 +74,9 @@ Dear Ms. Threat, I am writing to express my sincere appreciation with teaching m
 Sincerly,
 Jazsriel
 9th Grade.
+# March 31, 2025
+I am feeling good right now.
+The most stressful part of school is the tests.
+Some thing I could do during stressful times is sleep or watch youtube.
+One goal I have for the rest of the school year is to get good grades...
+Someone who I can talk to when I am feeling overwhelemed is my best friend.
