@@ -80,3 +80,5 @@ The most stressful part of school is the tests.
 Some thing I could do during stressful times is sleep or watch youtube.
 One goal I have for the rest of the school year is to get good grades...
 Someone who I can talk to when I am feeling overwhelemed is my best friend.
+# April 14, 2025
+I believe that blanket social media bans are ultimatle detrimental to students. While there are valid concerns about cyberbullying, distraction, and mental health, completely cutting off access overlooks the potential benefits of social media. THese platforms can be valuable tools for communications, collaboration, and accessing informations, esoecially in a rapidly evolving digital world. If such restrictions were implemented in my school, I would advocate for a more blanace approach. Instead of an outright ban, I would proprose educational programs on responsible social media use, digital citizenship, and online safety. Additionally, I would encourage the school to explore ways to integrate social media into the curriculum in a meaningful and productive way, rather than simply eliminating it.
