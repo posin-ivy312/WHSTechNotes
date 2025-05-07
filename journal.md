@@ -85,8 +85,7 @@ I believe that blanket social media bans are ultimatle detrimental to students. 
 # May 5, 2025
 No I do not think 100 men could defeat one gorilla because qa gorilla could swing and probably take out 10 of the men.
 # April 28, 2025
-| Name   | Flavor | Occassion  |price
-|
+| Name   | Flavor | Occassion  |price|
 |:---     |  :----:   |  ---:  |  ---:  |
 |  Sally    | Chocolate      | Graduation  |  $35.00 |
 |  Michael   | Vanilla       | Farewell Party | $37.00 |
