@@ -84,3 +84,10 @@ Someone who I can talk to when I am feeling overwhelemed is my best friend.
 I believe that blanket social media bans are ultimatle detrimental to students. While there are valid concerns about cyberbullying, distraction, and mental health, completely cutting off access overlooks the potential benefits of social media. THese platforms can be valuable tools for communications, collaboration, and accessing informations, esoecially in a rapidly evolving digital world. If such restrictions were implemented in my school, I would advocate for a more blanace approach. Instead of an outright ban, I would proprose educational programs on responsible social media use, digital citizenship, and online safety. Additionally, I would encourage the school to explore ways to integrate social media into the curriculum in a meaningful and productive way, rather than simply eliminating it.
 # May 5, 2025
 No I do not think 100 men could defeat one gorilla because qa gorilla could swing and probably take out 10 of the men.
+# April 28, 2025
+| Name   | Flavor | Occassion  |price
+|
+|:---     |  :----:   |  ---:  |  ---:  |
+|  Sally    | Chocolate      | Graduation  |  $35.00 |
+|  Michael   | Vanilla       | Farewell Party | $37.00 |
+| Emma       | Carrot        | Birthday    | $39.00 |
