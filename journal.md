@@ -90,3 +90,10 @@ No I do not think 100 men could defeat one gorilla because qa gorilla could swin
 |  Sally    | Chocolate      | Graduation  |  $35.00 |
 |  Michael   | Vanilla       | Farewell Party | $37.00 |
 | Emma       | Carrot        | Birthday    | $39.00 |
+# May 12, 2025
+The unethical Nature of the Chromebook Challenge
+The Chromebook challenge which isnvolves inserting ojects into usb ports, is unequivocally unethical. This is becuase it directly disregards the saftey and well-being of individuals integrity of property. Such actions are not only a violations of school policies but also demonstrate a profound lack of respect forchared resources. As future tech professionals it is our duty to uphold ethical standards and promote resonsible technology use which this challenge actively undermines.
+
+Real-world consequences and responsibilities.
+
+To someone who vies the chromebook challenge as a harmless joke it's curcial  to highlight the potential real-world consequences. Inserting objects into USb ports can cause irreprable damage to the chromebook leading to costly repairs or replacements that burden the school and taxpayers. More seriously it can results in electrical fires, endangering students and staff. Our responsibility as digital citizens is to use technology safely and ethically understanding that our actions have tangible effects on both ourselves and the community.
