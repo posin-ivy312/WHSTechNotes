@@ -97,3 +97,5 @@ The Chromebook challenge which isnvolves inserting ojects into usb ports, is une
 Real-world consequences and responsibilities.
 
 To someone who vies the chromebook challenge as a harmless joke it's curcial  to highlight the potential real-world consequences. Inserting objects into USb ports can cause irreprable damage to the chromebook leading to costly repairs or replacements that burden the school and taxpayers. More seriously it can results in electrical fires, endangering students and staff. Our responsibility as digital citizens is to use technology safely and ethically understanding that our actions have tangible effects on both ourselves and the community.
+# May 19, 2025 
+I am so excited for summer cus I will start to pull all nighters and stay up longe than usual.
